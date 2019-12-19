@@ -1,5 +1,7 @@
 # S2-055 反序列化漏洞 Exploit CVE-2017-7525 
 
+任务目标:于年底之前完成对S2-055 Jackson反序列化的自动化利用工具的开发,目前主要问题有环境搭建和Poc调试问题所以先将项目Fork了过来
+
 #### 首先感谢绿盟科技的廖师傅提供的漏洞环境代码 https://github.com/shengqi158/S2-055-PoC
 
 #### 本exploit是和我上家工作单位同事ahmatjan一起完成 https://github.com/ahmatjan/
